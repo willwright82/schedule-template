@@ -6,5 +6,3 @@ A simple template that lets you display events on a timeline, as well as organiz
 [Article on CodyHouse](https://codyhouse.co/gem/schedule-template/)
 
 [Demo](https://codyhouse.co/demo/schedule-template/index.html)
-
-[Terms](https://codyhouse.co/terms/)
